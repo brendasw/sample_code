@@ -29,7 +29,5 @@ This sample creates an interactive heat map saved as [.HTML file](https://brenda
 <!-- PYTHON -->
 ### Python
 
-Here are two samples written in Python:
-* Python_Data: This sample uses Python for data analytics and visualization.
-* Python_GIS: This sample uses Python GDAL/OGR/Rasterio to process shapefiles and raster data.
+Python_Data: This sample uses Python for data analytics and visualization.
 
