@@ -1,5 +1,5 @@
 * b_analysis.do:  This script reads the "clean_data.dta" generate from a_assembling.do.
-*                  carries out all analysis in section B, 
+*                  carries out all analysis, 
 *                  and outputs two graphs and two latex files for tables.
 
 *Set Path and Load Data

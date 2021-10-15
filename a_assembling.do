@@ -1,10 +1,10 @@
-* a_assembling.do: This script reads in raw school data from "Directory Information" files, 
-*                  merges with "Student Financial Aid and Net Price" files 
+* a_assembling.do: This script reads in raw school data, 
+*                  merges with other files 
 *                  and saves "clean_data.dta" as output
 
 
 ** Define locals/paths and get all csv file names
-local raw_data="2021 MIT Blueprint Labs Data Task/Data"
+local raw_data="Data"
 local files : dir "`raw_data'/schools" files "*.csv"
 
 * Create tempfile to store data
