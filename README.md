@@ -18,7 +18,7 @@
 ### Stata
 Here are two samples written in Stata:
 * a_assembling.do is a sample for reading and cleaning data.
-* b_analysis.do is a sample for running regressions and output results to latex tables.
+* b_analysis.do is a sample for running regressions and outputting results to latex tables.
 
 <!-- R -->
 ### R
