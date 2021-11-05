@@ -2,9 +2,6 @@
 <details open="open">
   <summary>Sample code</summary>
   <ol>
-     <li>
-      <a>Stata</a>
-    </li>
     <li>
       <a>R</a>
     </li>
@@ -13,12 +10,6 @@
     </li>
   </ol>
 </details>
-
-<!-- STata -->
-### Stata
-Here are two samples written in Stata:
-* a_assembling.do is a sample for reading and cleaning data.
-* b_analysis.do is a sample for running regressions and outputting results to latex tables.
 
 <!-- R -->
 ### R
